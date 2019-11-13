@@ -1,6 +1,6 @@
 <item>
 <title>Tc Premium</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8?wmsAuthSign=</link>
+<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8</link>
 <thumbnail>https://skytvplanos.com.br/img/channels/lg-261-canal-tc-premium-hd.png</thumbnail>
 <fanart>https://skytvplanos.com.br/img/channels/lg-261-canal-tc-premium-hd.png</fanart>
 </item>
