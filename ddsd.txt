@@ -1,8 +1,8 @@
 <item>
 <title>Tc Premium</title>
-<link>https://cdnfe1.azureedge.net/hls1/telecinepremium.m3u8</link>
-<thumbnail>https://skytvplanos.com.br/img/channels/lg-261-canal-tc-premium-hd.png</thumbnail>
-<fanart>https://skytvplanos.com.br/img/channels/lg-261-canal-tc-premium-hd.png</fanart>
+<link>http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_61b3b178567f3ece982edc6947ffccd06bf5c78b/playlist.m3u8</link>
+<thumbnail>https://cdn.iconscout.com/icon/free/png-256/fox-22-282798.png</thumbnail>
+<fanart>https://cdn.iconscout.com/icon/free/png-256/fox-22-282798.png</fanart>
 </item>
 
 <item>
